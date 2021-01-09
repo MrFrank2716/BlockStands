@@ -1,0 +1,6 @@
+name: BlockStands
+version: ${project.version}
+main: com.destroystokyo.blockarmorstandmovement.BlockArmorStandMovement
+load: STARTUP
+authors: [Z]
+website: https://github.com/MrFrank2716/BlockStands
