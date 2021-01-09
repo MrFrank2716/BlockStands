@@ -3,6 +3,10 @@
 
 BlockStands is a plug and play plugin that requires no configuration. It prevents armorstand ticking in your Minecraft world which ultimately allows less lag and higher server TPS.
 
+## Dependencies 
+ 
+ This plugin requires [Paper](https://papermc.io/)
+ 
 ## Installation
 
 Download the .jar file [BlockStands](https://github.com/MrFrank2716/BlockStands/blob/main/BlockStands-1.0.jar) and drop it into your server's plugins folder.
