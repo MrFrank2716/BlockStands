@@ -1,7 +1,7 @@
 # BlockStands
 ![](https://github.com/MrFrank2716/BlockStands/blob/main/BlockStandsPromo.gif)
 
-BlockStands is a plug and play plugin that requires no configuration. It prevents armorstand ticking in your Minecraft world which ultimately allows les lag and higher server TPS.
+BlockStands is a plug and play plugin that requires no configuration. It prevents armorstand ticking in your Minecraft world which ultimately allows less lag and higher server TPS.
 
 ## Installation
 
